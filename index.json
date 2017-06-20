@@ -1,0 +1,62 @@
+[
+  {"a1":"家用电器","a2":"","a3":"","a4":"","ss":">","content":[
+    {"title":"家用电器","src1":"img/tuijian-2.jpg",
+      "src2":"img/tuijian-3.jpg","src3":"img/tuijian-4.jpg"}
+  ]},
+  {"a1":"手机","a2":"数码","a3":"京东通信","a4":"","ss":">","content":[
+    {"title":"手机 数码 京东通信","src1":"img/tuijian-5.jpg",
+      "src2":"img/tuijian-6.jpg","src3":"img/tuijian-7.jpg"}
+  ]},
+  {"a1":"电脑","a2":"办公","a3":"","a4":"","ss":">","content":[
+    {"title":"电脑 办公","src1":"img/tuijian-8.jpg",
+      "src2":"img/tuijian-9.jpg","src3":"img/tuijian-10.jpg"}
+  ]},
+  {"a1":"家居","a2":"家具","a3":"家装","a4":"厨具","ss":">","content":[
+    {"title":"家居 家具 家装 厨具","src1":"img/tuijian-11.jpg",
+      "src2":"img/tuijian-12.jpg","src3":"img/tuijian-12.jpg"}
+  ]},
+  {"a1":"男装","a2":"女装","a3":"童装","a4":"内衣","ss":">","content":[
+    {"title":"男装 女装 童装 内衣","src1":"img/tuijian-14.jpg",
+      "src2":"img/tuijian-15.jpg","src3":"img/tuijian-16.jpg"}
+  ]},
+  {"a1":"个户化妆","a2":"清洁用品","a3":"宠物","a4":"","ss":">","content":[
+    {"title":"各户化妆 清洁用品 宠物","src1":"img/tuijian-2.jpg",
+      "src2":"img/tuijian-3.jpg","src3":"img/tuijian-4.jpg"}
+  ]},
+  {"a1":"鞋靴","a2":"箱包","a3":"珠宝","a4":"奢饰品","ss":">","content":[
+    {"title":"鞋靴 箱包 珠宝 奢饰品","src1":"img/tuijian-5.jpg",
+      "src2":"img/tuijian-6.jpg","src3":"img/tuijian-7.jpg"}
+  ]},
+  {"a1":"运动户外","a2":"钟表","a3":"","a4":"","ss":">","content":[
+    {"title":"运动户外 钟表","src1":"img/tuijian-8.jpg",
+      "src2":"img/tuijian-9.jpg","src3":"img/tuijian-10.jpg"}
+  ]},
+  {"a1":"汽车","a2":"汽车用品","a3":"","a4":"","ss":">","content":[
+    {"title":"汽车 汽车用品","src1":"img/tuijian-12.jpg",
+      "src2":"img/tuijian-13.jpg","src3":"img/tuijian-14.jpg"}
+  ]},
+  {"a1":"母婴","a2":"玩具乐器","a3":"","a4":"","ss":">","content":[
+    {"title":"母婴 玩具乐器","src1":"img/tuijian-15.jpg",
+      "src2":"img/tuijian-16.jpg","src3":"img/tuijian-11.jpg"}
+  ]},
+  {"a1":"食品","a2":"酒类","a3":"生鲜","a4":"特产","ss":">","content":[
+    {"title":"食品 酒类 生鲜 特产","src1":"img/tuijian-2.jpg",
+      "src2":"img/tuijian-3.jpg","src3":"img/tuijian-4.jpg"}
+  ]},
+  {"a1":"医药保健","a2":"","a3":"","a4":"","ss":">","content":[
+    {"title":"医药保健","src1":"img/tuijian-6.jpg",
+      "src2":"img/tuijian-9.jpg","src3":"img/tuijian-5.jpg"}
+  ]},
+  {"a1":"图书","a2":"音像","a3":"电子书","a4":"","ss":">","content":[
+    {"title":"图书 音像 电子书","src1":"img/tuijian-11.jpg",
+      "src2":"img/tuijian-13.jpg","src3":"img/tuijian-14.jpg"}
+  ]},
+  {"a1":"彩票","a2":"旅行","a3":"充值","a4":"票务","ss":">","content":[
+    {"title":"彩票 旅行 充值 票务","src1":"img/tuijian-2.jpg",
+      "src2":"img/tuijian-3.jpg","src3":"img/tuijian-4.jpg"}
+  ]},
+  {"a1":"理财","a2":"众筹","a3":"白条","a4":"保险","ss":">","content":[
+    {"title":"理财 众筹 白条 保险","src1":"img/tuijian-7.jpg",
+      "src2":"img/tuijian-8.jpg","src3":"img/tuijian-9.jpg"}
+  ]}
+]
